@@ -4,13 +4,13 @@ The formal definition is, a database that uses graph structures for semantic que
 
 ## What are the benefits of using a Graph Database?
 
-In a graph databases the relationships between data are given as much (if not more) importance as the data itself. For specific types of data a graph database can improve efficiency and perfomance signigicantly. Graph databases are extremely good at handling connected data, Social media is a great example of this.
+In graph databases the relationships between data are given as much (if not more) importance than the data itself. For specific types of data, a graph database can improve efficiency and perfomance significantly. Graph databases are extremely good at handling connected data - social media is a great example of this.
 
 ## What is Neo4j?
 
-Neo4j is an open source graph database. Instead of using SQL, Neo4j uses a query language called cypher. If you are interested in this take 476,  Neo4j is talked about more in depth and the source material for this section of the workshop comes largley from 476. 
+Neo4j is an open source graph database. Instead of using SQL, Neo4j uses a query language called [cypher](https://neo4j.com/developer/cypher/). If you are interested in this, take CS 476, where Neo4j is talked about more in depth. The source material for this section of the workshop comes largely from CS 476. 
 
-Lets go through an example with movies
+### Lets go through an example with movies
 
 The relationships between the data can be shown with the graph below
 
